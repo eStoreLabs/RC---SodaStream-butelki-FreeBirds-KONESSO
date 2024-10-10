@@ -144,7 +144,7 @@
   align-items: center;
   background-color: #13294b;
   padding: 40px 10px;
-  padding-bottom: 200px;
+  padding-bottom: 250px;
 }
 #es-sodastream.es-sodastream .es-efficiency__title {
   text-transform: uppercase;
@@ -660,8 +660,11 @@
     margin: 0 auto;
     margin-bottom: 10px;
     width: 79%;
-    font-size: 20px;
+    font-size: 24px;
     text-align: center;
+  }
+  #es-sodastream.es-sodastream .es-slider__text--first {
+    margin-bottom: 100px;
   }
 
   #es-sodastream.es-sodastream .es-syroups__title {
